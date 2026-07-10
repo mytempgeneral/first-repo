@@ -1,3 +1,7 @@
 new changes
 
+<<<<<<< HEAD
+hello
+=======
 my changes
+>>>>>>> 88edaff1775d36406c337d2eacba1143e2784da0
